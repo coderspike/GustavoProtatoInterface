@@ -11,7 +11,7 @@
     <groupId>com.gustavo</groupId>
     <artifactId>protato</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>protato</name>
+    <name>GustavoProtatoInterface</name>
     <description>gustavo's protato</description>
 
     <properties>
